@@ -1,0 +1,10 @@
+{
+	"Name": "Reduced Muzzle Drift",
+	"Authors": ["GaryTheNoTrashCougar"],
+	"Description": "Reduces muzzle drift/spread of automatic weapons allowing for more accurate longer bursts",
+	"Version": "1.0.0",
+	"HasVeniceEXT": true,
+	"Dependencies": {
+		"veniceext": "^1.0.0"
+	}
+}
